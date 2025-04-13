@@ -9,8 +9,7 @@ Built from scratch to follow the Module 10 Challenge criteria from the edX Full 
 ## Links
 
 - 📁**GitHub Repo:** [https://github.com/shawnachirillo/challenge-10-complete](https://github.com/shawnachirillo/challenge-10-complete)
--  **Walkthrough Video:** [https://your-video-link-here.com](https://your-video-link-here.com) ← *(replace this with your Screencastify or Loom link)*
-
+-  **Walkthrough Video:** [https://app.screencastify.com/v3/watch/e2Jkfc14fYQNsx1EfUYV]
 ---
 
 ## Features
